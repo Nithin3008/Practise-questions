@@ -1,0 +1,66 @@
+.MainBox
+{
+    padding: 10px 10px;
+    max-width:1000px;
+    margin: auto;
+}
+.LeftBox li{
+    list-style: none;
+    margin: 40px 20px;
+    padding: 5px 5px;
+}
+.links
+{
+    text-decoration: none;
+    margin: 10px 10px;
+    padding: 5px 5px;
+    
+}
+.headerBox
+{
+    border: 2px solid red;
+    margin: 40px 40px;
+    padding: 10px 10px;
+}
+.headerBox .inputTag
+{
+    margin:15px 15px;
+    padding: 10px 10px;
+}
+.headerBox .fil
+{
+    margin-top: -23px;
+    text-align: left;
+    padding: 0;
+}
+
+.mails
+{
+   
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding: 10px 10px;
+    
+    margin: 20px 10px;
+}
+
+.mails h2{
+    text-align: left;
+}
+.mails p
+{ 
+    text-align: left;
+}
+.btnBoxes
+{
+    display: flex;
+    justify-content: space-between;
+}
+.detailsBox .links
+{
+    color: orangered
+}
+.otherBox button
+{
+    margin-left: 10px;
+}
